@@ -31,15 +31,21 @@ function Sidebar() {
       <div className="sidebar__header">
         <Avatar src={user?.photoURL} />
         <div className="sidebar__headerRight">
-          <IconButton>
+          <IconButton style = {{
+            color : "white"
+          }}>
             <DonutLargeIcon />
           </IconButton>
 
-          <IconButton>
+          <IconButton style = {{
+            color : "white"
+          }}>
             <ChatIcon />
           </IconButton>
 
-          <IconButton>
+          <IconButton style = {{
+            color : "white"
+          }}>
             <MoreVertIcon />
           </IconButton>
         </div>
@@ -47,7 +53,9 @@ function Sidebar() {
 
       <div className="sidebar__search">
         <div className="sidebar__searchContainer">
-          <SearchOutlined />
+          <SearchOutlined  style = {{
+            color : "white"
+          }}/>
           <input placeholder="Search or start new chat" type="text" />
         </div>
       </div>

@@ -1,12 +1,13 @@
 .sidebarChat {
   display: flex;
   padding: 20px;
+  background-color: #35ad99;
   cursor: pointer;
   border-bottom: 1px solid #f6f6f6;
 }
 
 .sidebarChat:hover {
-  background-color: #ebebeb;
+  background-color: #248172;
 }
 
 .sidebarChat__info > h2 {
@@ -20,5 +21,5 @@
 
 a {
   text-decoration: none !important;
-  color: black;
+  color: rgb(255, 255, 255);
 }

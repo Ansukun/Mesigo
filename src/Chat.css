@@ -8,7 +8,7 @@
   padding: 20px;
   display: flex;
   align-items: center;
-  border-bottom: 1px solid lightgray;
+  border-bottom: 2px solid lightgray;
 }
 
 .chat__headerInfo {
@@ -32,7 +32,7 @@
 }
 
 .chat__body {
-  background-image: url("https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png");
+  background-image: url("c3.jpg");
   flex: 1;
 
   background-repeat: repeat;
@@ -52,6 +52,7 @@
   background-color: #ffffff;
   border-radius: 10px;
   width: fit-content;
+  color: black;
   margin-bottom: 30px;
 }
 
@@ -60,6 +61,7 @@
   top: -15px;
   font-weight: 800;
   font-size: xx-small;
+  color: aliceblue;
 }
 
 .chat__timestamp {
@@ -77,7 +79,8 @@
   justify-content: space-between;
   align-items: center;
   height: 62px;
-  border-top: 1px solid lightgray;
+  border-top: 2px solid lightgray;
+  border-left: 2px solid rgb(233, 231, 231);
 }
 
 .chat__footer > form {
@@ -90,6 +93,7 @@
   border-radius: 30px;
   padding: 10px;
   border: none;
+ 
 }
 
 .chat__footer > form > button {

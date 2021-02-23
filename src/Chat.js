@@ -67,15 +67,21 @@ function Chat() {
           </p>
         </div>
         <div className="chat__headerRight">
-          <IconButton>
+          <IconButton style = {{
+            color : "white"
+          }}>
             <SearchOutlined />
           </IconButton>
 
-          <IconButton>
+          <IconButton style = {{
+            color : "white"
+          }}>
             <AttachFile />
           </IconButton>
 
-          <IconButton>
+          <IconButton style = {{
+            color : "white"
+          }}>
             <MoreVert />
           </IconButton>
         </div>
@@ -98,19 +104,22 @@ function Chat() {
       </div>
 
       <div className="chat__footer">
-        <InsertEmoticon />
+        <InsertEmoticon style = {{
+          color : "white"
+        }} />
         <form>
           <input
             value={input}
             onChange={(e) => setInput(e.target.value)}
             placeholder="Type a message"
-            type="text"
-          />
+            type="text" />
           <button type="submit" onClick={sendMessage}>
             Send a Message
           </button>
         </form>
-        <Mic />
+        <Mic style = {{
+          color : "white"
+        }} />
       </div>
     </div>
   );
