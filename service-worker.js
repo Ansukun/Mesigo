@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Mesigo/precache-manifest.c17478c18d87bdc0a8ed31269549a0c2.js"
+  "/Mesigo/precache-manifest.8a22abb3b12afabe2424a32479a97e7d.js"
 );
 
 self.addEventListener('message', (event) => {

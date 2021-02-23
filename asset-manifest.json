@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/Mesigo/static/css/main.c9527f51.chunk.css",
-    "main.js": "/Mesigo/static/js/main.383edef6.chunk.js",
-    "main.js.map": "/Mesigo/static/js/main.383edef6.chunk.js.map",
+    "main.css": "/Mesigo/static/css/main.1663bf04.chunk.css",
+    "main.js": "/Mesigo/static/js/main.e183a5fa.chunk.js",
+    "main.js.map": "/Mesigo/static/js/main.e183a5fa.chunk.js.map",
     "runtime-main.js": "/Mesigo/static/js/runtime-main.6b14b7d2.js",
     "runtime-main.js.map": "/Mesigo/static/js/runtime-main.6b14b7d2.js.map",
     "static/js/2.76387e4b.chunk.js": "/Mesigo/static/js/2.76387e4b.chunk.js",
     "static/js/2.76387e4b.chunk.js.map": "/Mesigo/static/js/2.76387e4b.chunk.js.map",
     "index.html": "/Mesigo/index.html",
-    "precache-manifest.c17478c18d87bdc0a8ed31269549a0c2.js": "/Mesigo/precache-manifest.c17478c18d87bdc0a8ed31269549a0c2.js",
+    "precache-manifest.8a22abb3b12afabe2424a32479a97e7d.js": "/Mesigo/precache-manifest.8a22abb3b12afabe2424a32479a97e7d.js",
     "service-worker.js": "/Mesigo/service-worker.js",
-    "static/css/main.c9527f51.chunk.css.map": "/Mesigo/static/css/main.c9527f51.chunk.css.map",
+    "static/css/main.1663bf04.chunk.css.map": "/Mesigo/static/css/main.1663bf04.chunk.css.map",
     "static/js/2.76387e4b.chunk.js.LICENSE.txt": "/Mesigo/static/js/2.76387e4b.chunk.js.LICENSE.txt",
+    "static/media/Login.css": "/Mesigo/static/media/c4.076e3cae.jpg",
     "static/media/App.css": "/Mesigo/static/media/image.6933297f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.6b14b7d2.js",
     "static/js/2.76387e4b.chunk.js",
-    "static/css/main.c9527f51.chunk.css",
-    "static/js/main.383edef6.chunk.js"
+    "static/css/main.1663bf04.chunk.css",
+    "static/js/main.e183a5fa.chunk.js"
   ]
 }
